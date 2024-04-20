@@ -9,12 +9,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legbor&theme=shadow_blue)](https://github.com/legbor)
 
-## WHO AM I?
-- 🔭 I’m currently pursuing a master's degree
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Who am i?
+- 🌱 I’m currently learning.
+
+- 🔭 I’m going to study for a master's degree.
+
+- 🧶 I'm also maintaining my Neovim configuration.
+
+- 😎 Sometimes I also write a little experience.
+
+## What now?
+- ⚡ Fun fact: Due to personal ability issues, my Neovim configuration is basically a large number of replicas of LazyVim, with a small amount being written by myself. However, I am also unable to solve certain deep-seated problems.
+
+- 💬 I don't quite understand the content of Lua either.
