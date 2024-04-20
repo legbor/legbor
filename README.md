@@ -1,6 +1,5 @@
 # [Hi there 👋](https://github.com/legbor)
 
-<div align="center">
 ![Npm](https://img.shields.io/badge/npm-build-brightgreen?style=flat&logo=npm&logoColor=orange&color=blue
 )
 ![Lua](https://img.shields.io/badge/lua-build-brightgreen?style=flat&logo=lua&logoColor=blue&color=red
@@ -9,7 +8,6 @@
 )
 ![Vim](https://img.shields.io/badge/vim-build-brightgreen?style=flat&logo=vim&logoColor=orange&labelColor=white&color=orange
 )
-</div>
 
 ## WHO AM I?
 - 🔭 I’m currently pursuing a master's degree
