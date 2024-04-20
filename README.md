@@ -4,7 +4,9 @@
 ![Lua](https://img.shields.io/badge/lua-build-brightgreen?style=flat&logo=lua&logoColor=blue&color=red)
 ![Shell](https://img.shields.io/badge/shell-build-brightgreen?style=flat&logo=shell&logoColor=black&color=purple)
 ![Vim](https://img.shields.io/badge/vim-build-brightgreen?style=flat&logo=vim&logoColor=orange&labelColor=white&color=orange)
+
 [![Legbor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=legbor&count_private=true&show_icons=true&theme=shadow_blue)](https://github.com/legbor)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legbor&theme=shadow_blue)](https://github.com/legbor)
 
 ## WHO AM I?
