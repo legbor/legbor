@@ -1,11 +1,18 @@
-### Hi there 👋
+# [Hi there 👋](https://github.com/legbor)
 
-<!--
-**legbor/legbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+[![Npm](https://img.shields.io/badge/npm-build-brightgreen?style=flat&logo=npm&logoColor=orange&color=blue
+)]
+[![Lua](https://img.shields.io/badge/lua-build-brightgreen?style=flat&logo=lua&logoColor=blue&color=red
+)]
+[![Shell](https://img.shields.io/badge/shell-build-brightgreen?style=flat&logo=shell&logoColor=black&color=purple
+)]
+[![Vim](https://img.shields.io/badge/vim-build-brightgreen?style=flat&logo=vim&logoColor=orange&labelColor=white&color=orange
+)]
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+## WHO AM I?
+- 🔭 I’m currently pursuing a master's degree
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
