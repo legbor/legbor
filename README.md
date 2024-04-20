@@ -22,3 +22,8 @@
 - ⚡ Fun fact: Due to personal ability issues, my Neovim configuration is basically a large number of replicas of LazyVim, with a small amount being written by myself. However, I am also unable to solve certain deep-seated problems.
 
 - 💬 I don't quite understand the content of Lua either.
+
+## What about the future?
+- 🤔 I plan to visit more excellent content on GitHub and learn from numerous excellent cases of developers.
+
+- 😶‍🌫️ I plan to delve deeper into a development language, probably C++, and also learn scripting languages such as Lua and Python. Wait for my good news.
